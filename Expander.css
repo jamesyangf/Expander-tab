@@ -1,0 +1,36 @@
+/* Expander.css 
+* James Yang 
+* CSC 437 
+* Clint Staley
+*/
+
+#root1 {
+   border: 1px solid blue;
+}
+
+#root2 {
+}
+
+#root3 {
+   border: 1px solid blue;
+}
+
+#root4 {
+   border: 1px solid blue;
+}
+
+.tab {
+   width: 500px;
+   height: 30px;
+}
+
+.content {
+   position: relative;
+   width: 430px;
+   height: 13px;
+   background-color: #7FFF00;
+   left: 12%;
+   bottom: 95%;
+   padding-top: 0.7%;
+   padding-bottom: 2%;
+}
